@@ -1,4 +1,9 @@
 <html>
+
+<head><style>
+h1{colour:blue,font:300%}
+</style>
+<</head>
 <body>
 </body>
 
