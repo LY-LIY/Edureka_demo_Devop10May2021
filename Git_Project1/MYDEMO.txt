@@ -7,7 +7,7 @@ h1{colour:blue,font:300%}
 <body>
 =======
 <body>My First program is html
->>>>>>> 0f894bc8e28284bffb46da056396ae52530fe4b2
+
 </body>
 
 </html>
